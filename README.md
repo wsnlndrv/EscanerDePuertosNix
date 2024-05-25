@@ -1,0 +1,1 @@
+Pues eso, un escaner de puertos y una prueba para ver la capacidad de GPT 3.5, con el resultado de que es mejor salir corriendo antes de usar el chat bot 3.5, pues para proyectos pequeños puede valer, pero nada mas.
